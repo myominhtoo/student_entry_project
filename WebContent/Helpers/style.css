@@ -1,0 +1,9 @@
+/* for background */
+
+.bg{
+	background:rgba(0,0,0,0.75);
+}
+
+main{
+	background:rgba(255,255,255,0.75);
+}
